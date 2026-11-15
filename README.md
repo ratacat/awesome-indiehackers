@@ -96,6 +96,7 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Hacker News](https://news.ycombinator.com)
 - [Indie Hackers](https://indiehackers.com)
 - [Awesome Indie](https://awesomeindie.com)
+- [No Stairs Please](https://nostairsplease.com/mcp)
 
 <details>
 <summary>🗄️ 4 archived communities (removed from the list)</summary>
